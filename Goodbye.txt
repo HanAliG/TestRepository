@@ -1,2 +1,2 @@
-print("Goodbye");
-print("Feature complete")
+print("Goodbye").
+print("Feature complete").
